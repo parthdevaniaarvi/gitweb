@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1640775424818,
+  "timestamp": 1640776329589,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,9 +15,12 @@
         "/index.html",
         "/main.js",
         "/manifest.webmanifest",
+        "/ngsw-worker.js",
         "/polyfills.js",
         "/runtime.js",
-        "/styles.css"
+        "/safety-worker.js",
+        "/styles.css",
+        "/worker-basic.min.js"
       ],
       "patterns": []
     },
@@ -55,11 +58,14 @@
     "/assets/images/bell.png": "a4158d27423ad6c06137a183055d3000cf255372",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/index.html": "d6bdca72967f0ae4636c9cb782120da12785b9d0",
-    "/main.js": "233a063b7b99735163977a9728118d01c19df7c3",
+    "/main.js": "e1540cbe82fbb9ade6c9479ea8377acd2e055107",
     "/manifest.webmanifest": "999b929e3fbf2ea831cff5df30e0647f962f14c3",
+    "/ngsw-worker.js": "40d0039a18343ecc1d310751f03cf8e563400422",
     "/polyfills.js": "c022ac7f56a613ca24458e6c5498887e994644a6",
     "/runtime.js": "e8e72d0791a61a6a7a535fb91c8ecd1de2558506",
-    "/styles.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/safety-worker.js": "70914dc203fa1f881e56f2b794d7a4f9c48ee745",
+    "/styles.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/worker-basic.min.js": "70914dc203fa1f881e56f2b794d7a4f9c48ee745"
   },
   "navigationUrls": [
     {
